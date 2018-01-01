@@ -1,3 +1,6 @@
+'''
+This script displays Codeforces User handle,rating,rank,maxRating,maxRank by fetching the data from Codeforces API
+'''
 import requests
 uname = input('Enter your Codeforces Handle: ')
 
